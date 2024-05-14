@@ -1,0 +1,112 @@
+.g-all{
+    /* background-color: rgb(126, 29, 111); */
+    margin-top: 20px;
+    /* position: relative; */
+}
+.gl-Heading{
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: aquamarine; */
+    /* flex-direction: column; */
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.gl-totaltask{
+    /* background-color: aqua; */
+    background-color: #242424;
+    margin: auto;
+}
+.gl-task{
+    display: flex;
+    justify-content: space-between;
+    /* margin: auto; */
+    color: #fff;
+    /* margin-top: 40px !important; */
+    background-color: #353839;
+    /* border: 1px solid red; */
+    height: 60px;
+    border-radius: 14px;
+    margin-bottom: 15px;
+}
+
+.gl-task p{
+    /* margin-top: 20px; */
+    margin: auto;
+}
+/* .dumb{
+    background-color: bisque;
+    margin: auto;
+    color: blueviolet;
+} */
+
+.g-all .icon{
+    /* background-color: brown; */
+    margin: auto;
+    font-size: 32px;
+}
+.icon-heart{
+    color: red;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 15vw;
+    font-size: 35px;
+    /* margin-left: 20px; */
+}
+.dumbbell, .square1{
+    color: purple;
+}
+.flame, .square2{
+    color: orangered;
+}
+.shoe, .square3{
+    color: green;
+}
+.moon, .square4{
+    color: rgb(39, 219, 186);
+}
+.droplet, .square5{
+    color: rgb(49, 132, 255);
+}
+
+
+
+
+.gl-swipe{
+    background-color: rgb(255, 85, 0);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 55px;
+    height: 65px;
+}
+
+.gl-track{
+    border-radius: 100%;
+    background-color: #fff;
+    color: orangered;
+    height: 55px;
+    width: 55px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 3px;
+
+}
+.gl-track p{
+    /* margin: auto; */
+    /* text-align: center; */
+    font-size: 20px;
+    margin-top: 10px;
+    /* color: #fff;*/
+}
+.gl-p-swipe{
+    color: #fff;
+    margin-top: 16px;
+    font-size: 18px;
+}
+.icon-right{
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 34px;
+    color: #fff;
+
+}

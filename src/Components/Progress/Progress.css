@@ -1,0 +1,100 @@
+body{
+    background-color: #242424 !important;
+}
+
+.p-full{
+    /* position: relative; */
+    background-color: deepskyblue;
+    height: 15vh;
+    display: flex;
+    border-radius: 15px;
+}
+.p-left{
+    width: 22vw;
+    height: 15vh;
+    /* background-color: brown; */
+    /* margin: auto; */
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.p-right{
+    line-height: 0.6;
+    width: 70vw;
+    /* background-color: rgb(21, 75, 56); */
+    text-align: left;
+    margin-top: 32px;
+    margin-left: 10px;
+}
+.p-daily{
+    font-size: 16px;
+    /* font-weight: 1000; */
+}
+.p-bar{
+    background-color: rgb(86, 207, 247);
+    height: 3px;
+    width: 40vw;
+}
+
+.p-inner1{
+    height: 20px;
+    width: 20px;
+    background-color: #fff;
+    border-radius: 100%;
+    /* margin: 0px 0 0 0; */
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    /* margin-top: 10px; */
+    /* margin-top: 10px; */
+    margin: auto;
+}
+.p-inner2{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(4, 101, 185);
+    border-radius: 100%;
+    margin: auto;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    justify-content: center;
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    /* margin-top: 20px; */
+}
+.p-inner3{
+    height: 60px;
+    width: 60px;
+    background-color: aliceblue;
+    border-radius: 100%;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    /* margin-top: 20px; */
+}
+.p-inner4{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(4, 101, 185);
+    border-radius: 100%;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    justify-content: center;
+    /* margin: 30px auto; */
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    margin: auto;
+   
+}
+.prog{
+    /* height: 22vh; */
+    margin-top: 10px;
+    /* background-color: brown; */
+}

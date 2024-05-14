@@ -1,0 +1,29 @@
+.n-main{
+    /* position:absolute; */
+}
+.n-full{
+    /* background-color: #1f1f1f; */
+    /* background-color: brown; */
+    height: 85px;
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: 20px; */
+    /* position: absolute; */
+    /* position: absolute;
+    bottom: 2px; */
+    /* position: relative; */
+
+}
+.n-icon{
+    font-size: 25px;
+    /* margin: auto; */
+    /* margin: ; */
+    /* background-color: blue; */
+    margin-top: 25px;
+    color: #B5B5B5;
+}
+
+.n-icon:hover{
+    color: orangered;
+}
